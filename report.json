@@ -1,1 +1,32 @@
-{"date":null,"items":[]}
+{
+  "date": "2026-11-27",
+  "items": [
+    {
+      "title": "Monitoraggio quotidiano: nessuna nuova operazione rilevante verificata",
+      "company": "Settore multiservizi",
+      "date": "2026-11-27",
+      "category": "Sintesi delle ultime 24 ore",
+      "summary": "La rassegna delle 08:42 non ha individuato nuove aggiudicazioni rilevanti, acquisizioni o vertenze sindacali significative verificabili. Nessuna novità sostanziale individuata per Dussmann, Coopservice, Idealservice, Markas, Euro&Promos, Miorelli e Cosp Tecno Service. La ricerca nelle fonti pubbliche indicizzate non è esaustiva.",
+      "relevance": "Non emergono nuovi fatti tali da modificare significativamente gli equilibri competitivi.",
+      "sources": []
+    },
+    {
+      "title": "Rekeep: selezioni per le funzioni centrali",
+      "company": "Rekeep",
+      "date": "2026-11-25 (Company Affairs); data originaria non accertata per Ufficio Gare",
+      "category": "Approfondimento — non nuova notizia delle ultime 24 ore",
+      "summary": "La rassegna segnala una ricerca Tender Internship a Bologna per il potenziamento dell'Ufficio Gare, con rimborso indicato di 800–1.200 euro mensili, e una selezione Company Affairs del 25 novembre con rimborso indicato di 800 euro mensili. La data originaria della prima inserzione non è stata accertata.",
+      "relevance": "Possibile attenzione alle funzioni centrali; non è prova di riorganizzazione societaria o di nuove assunzioni manageriali strategiche.",
+      "sources": [
+        {
+          "name": "Indeed – ricerca offerte ufficio gare (pagina aggregata)",
+          "url": "https://it.indeed.com/q-addetto-ufficio-gare-e-appalti-l-bologna%2C-emilia-romagna-offerte-lavoro.html"
+        },
+        {
+          "name": "Euspert – selezione Company Affairs",
+          "url": "https://it.euspert.com/offerte-lavoro/bologna/company-affairs-internship-44417566.html"
+        }
+      ]
+    }
+  ]
+}

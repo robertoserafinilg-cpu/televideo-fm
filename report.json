@@ -2,13 +2,152 @@
   "date": "2026-11-27",
   "items": [
     {
-      "title": "Monitoraggio quotidiano: nessuna nuova operazione rilevante verificata",
-      "company": "Settore multiservizi",
+      "title": "Cambio appalto pulizie autostrade siciliane: vertenza Filcams",
+      "company": "ESG / BSF",
       "date": "2026-11-27",
-      "category": "Sintesi delle ultime 24 ore",
-      "summary": "La rassegna delle 08:42 non ha individuato nuove aggiudicazioni rilevanti, acquisizioni o vertenze sindacali significative verificabili. Nessuna novità sostanziale individuata per Dussmann, Coopservice, Idealservice, Markas, Euro&Promos, Miorelli e Cosp Tecno Service. La ricerca nelle fonti pubbliche indicizzate non è esaustiva.",
-      "relevance": "Non emergono nuovi fatti tali da modificare significativamente gli equilibri competitivi.",
-      "sources": []
+      "category": "Oggi · Relazioni industriali",
+      "summary": "Secondo L'Eco del Sud, la Filcams segnala possibili riduzioni orarie nella procedura di subentro prevista per il 1 dicembre. Il confronto con BSF si è svolto il 23 novembre.",
+      "relevance": "Da verificare la salvaguardia occupazionale e il rispetto delle clausole sociali.",
+      "sources": [
+        {
+          "name": "L'Eco del Sud",
+          "url": "https://www.lecodelsud.it/IT/articolo/consorzio-autostrade-scatta-la-vertenza-cgil-filcams-sul-cambio-appalto-a-rischio-ore-e-posti-di-lavoro-201896"
+        }
+      ]
+    },
+    {
+      "title": "Terni: 388.382,53 euro per servizi ambientali complementari",
+      "company": "ASM Terni",
+      "date": "2026-11-23",
+      "category": "Ultimi 7 giorni · Economia",
+      "summary": "Il Comune ha approvato una variazione di bilancio per passività pregresse relative a prestazioni di igiene urbana svolte nel 2024–2025. Imponibile tecnico 318.346,34 euro.",
+      "relevance": "Rilevante per la contabilizzazione dei servizi extra-canone; non è una nuova aggiudicazione.",
+      "sources": [
+        {
+          "name": "Comune di Terni",
+          "url": "https://www.comune.terni.it/novita/notizie/il-consiglio-approva-388-mila-euro-ad-asm-servizi-extra"
+        }
+      ]
+    },
+    {
+      "title": "ISMEA: avvio gara europea per le pulizie",
+      "company": "ISMEA",
+      "date": "2026-11-23 (pubblicazione indicizzata)",
+      "category": "Ultimi 7 giorni · Gare",
+      "summary": "Il documento di avvio prevede una procedura europea in lotto unico, con criterio qualità/prezzo. La proposta di avvio risale al 16 novembre.",
+      "relevance": "Opportunità commerciale da approfondire negli atti di gara.",
+      "sources": [
+        {
+          "name": "ISMEA – documento ufficiale",
+          "url": "https://trasparenza.ismea.it/download/2815118.html"
+        }
+      ]
+    },
+    {
+      "title": "Mercato ambientale: 102 procedure aperte secondo aggregatore",
+      "company": "Settore ambientale",
+      "date": "2026-11-26",
+      "category": "Ultime 24–48 ore · Gare",
+      "summary": "La piattaforma Polyfacto indica 102 bandi e avvisi aperti, 19 pubblicati nei sette giorni precedenti e 27 in scadenza entro sette giorni.",
+      "relevance": "Indicatore orientativo, non conteggio ufficiale ANAC.",
+      "sources": [
+        {
+          "name": "Polyfacto",
+          "url": "https://tender.polyfacto.com/gare-appalto/settore/rifiuti"
+        }
+      ]
+    },
+    {
+      "title": "Trentino: continuità occupazionale per 656 addetti",
+      "company": "Markas / Pulinet / Vales / Rekeep",
+      "date": "2026-11-24",
+      "category": "Approfondimento · Già segnalato",
+      "summary": "La prima fase del confronto sindacale ha raggiunto un'intesa sulla continuità occupazionale; la firma dei contratti individuali era prevista dal 26 novembre. Non risulta verificato il completamento delle firme.",
+      "relevance": "Caso di riferimento per i cambi appalto sanitari.",
+      "sources": [
+        {
+          "name": "RAI TGR",
+          "url": "https://www.rainews.it/tgr/trento/articoli/2026/11/cambio-appalto-pulizie-negli-ospedali-trentini-riassunti-tutti-i-656-addetti-998589a2-811a-4ca8-8cfd-b54c999c7401.html"
+        },
+        {
+          "name": "ASUIT",
+          "url": "https://asuit.tn.it/notizie/appalto-pulizie-asuit-nessun-taglio-ai-servizi"
+        }
+      ]
+    },
+    {
+      "title": "Terni: bando per cestini e pronto intervento di igiene urbana",
+      "company": "ASM Terni",
+      "date": "Scadenza 2026-11-30 ore 12",
+      "category": "Approfondimento · Gara già pubblicata",
+      "summary": "Valore stimato 437.750,01 euro secondo le piattaforme di indicizzazione dei bandi. Oggetto: cestini, posaceneri, spazzamento e raccolta nel centro storico.",
+      "relevance": "Verificare gli atti originali prima di partecipare.",
+      "sources": [
+        {
+          "name": "Ossian",
+          "url": "https://ossian.cloud/bandi/avviso/3348d015-a71b-4a41-8be2-7ab1ea715be5.html"
+        },
+        {
+          "name": "HelloTender",
+          "url": "https://www.hellotender.eu/it/gare/servizio-raccolta-rifiuti-743720-2026"
+        }
+      ]
+    },
+    {
+      "title": "Rekeep: partecipazione all'assemblea ANCI di Verona",
+      "company": "Rekeep",
+      "date": "2026-11-25/27",
+      "category": "Approfondimento · Evento già annunciato",
+      "summary": "Tre incontri dedicati alle città e ai servizi per le amministrazioni locali. L'evento era stato annunciato il 21 ottobre.",
+      "relevance": "Posizionamento commerciale verso gli enti locali; non costituisce aggiudicazione.",
+      "sources": [
+        {
+          "name": "Rekeep",
+          "url": "https://www.rekeep.com/media/notizie/prendersi-cura-delle-citta-rekeep-alla-43a-assemblea-anci"
+        }
+      ]
+    },
+    {
+      "title": "Pulizie e sanificazione: 25 bandi sopra soglia secondo aggregatore",
+      "company": "Settore multiservizi",
+      "date": "2026-11-23",
+      "category": "Ultimi 7 giorni · Mercato",
+      "summary": "RediGo indica 25 procedure aperte, valore stimato complessivo 88,9 milioni di euro, sulla base di dati TED.",
+      "relevance": "Dato orientativo riferito al 23 novembre, non elenco aggiornato in tempo reale.",
+      "sources": [
+        {
+          "name": "RediGo",
+          "url": "https://redi-go.it/gare-aperte/pulizie-sanificazione"
+        }
+      ]
+    },
+    {
+      "title": "Costi del lavoro e ribassi negli appalti di servizi",
+      "company": "Settore multiservizi",
+      "date": "2026-11-26",
+      "category": "Ultime 24–48 ore · Analisi di settore",
+      "summary": "Facilitynews affronta la sostenibilità delle basi d'asta e gli adeguamenti legati ai rinnovi contrattuali.",
+      "relevance": "Approfondimento editoriale, non nuovo provvedimento normativo.",
+      "sources": [
+        {
+          "name": "Facilitynews",
+          "url": "https://www.facilitynews.it/2026/11/26/gare-al-ribasso-appalti-servizi/"
+        }
+      ]
+    },
+    {
+      "title": "Emilia-Romagna: procedure per recupero e trattamento rifiuti",
+      "company": "Settore ambientale",
+      "date": "2026-11-26",
+      "category": "Ultimi 7 giorni · Gare",
+      "summary": "Un repertorio aggiornato al 26 novembre segnala procedure per recupero di sfalci e potature e gestione di rifiuti non pericolosi da depurazione per il periodo 2027–2029.",
+      "relevance": "Piste di ricerca da verificare sui bandi originali.",
+      "sources": [
+        {
+          "name": "iaGare",
+          "url": "https://iagare.com/bandi-gara-igiene-urbana-rifiuti-emilia-romagna/"
+        }
+      ]
     },
     {
       "title": "Rekeep: selezioni per le funzioni centrali",

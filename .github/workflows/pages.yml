@@ -31,7 +31,7 @@ jobs:
           git push || echo 'Archivio non salvato nel repository'
       - run: |
           mkdir -p public
-          cp index.html news.json public/
+          cp index.html news.json report.json public/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public

@@ -1,267 +1,63 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "items": [
     {
-      "title": "Cambio appalto pulizie autostrade siciliane: vertenza Filcams",
-      "company": "ESG / BSF",
-      "date": "2026-11-27",
-      "category": "Oggi · Relazioni industriali",
-      "summary": "Secondo L'Eco del Sud, la Filcams segnala possibili riduzioni orarie nella procedura di subentro prevista per il 1 dicembre. Il confronto con BSF si è svolto il 23 novembre.",
-      "relevance": "Da verificare la salvaguardia occupazionale e il rispetto delle clausole sociali.",
-      "sources": [
-        {
-          "name": "L'Eco del Sud",
-          "url": "https://www.lecodelsud.it/IT/articolo/consorzio-autostrade-scatta-la-vertenza-cgil-filcams-sul-cambio-appalto-a-rischio-ore-e-posti-di-lavoro-201896"
-        }
-      ]
-    },
-    {
-      "title": "Terni: 388.382,53 euro per servizi ambientali complementari",
-      "company": "ASM Terni",
-      "date": "2026-11-23",
-      "category": "Ultimi 7 giorni · Economia",
-      "summary": "Il Comune ha approvato una variazione di bilancio per passività pregresse relative a prestazioni di igiene urbana svolte nel 2024–2025. Imponibile tecnico 318.346,34 euro.",
-      "relevance": "Rilevante per la contabilizzazione dei servizi extra-canone; non è una nuova aggiudicazione.",
-      "sources": [
-        {
-          "name": "Comune di Terni",
-          "url": "https://www.comune.terni.it/novita/notizie/il-consiglio-approva-388-mila-euro-ad-asm-servizi-extra"
-        }
-      ]
-    },
-    {
-      "title": "ISMEA: avvio gara europea per le pulizie",
-      "company": "ISMEA",
-      "date": "2026-11-23 (pubblicazione indicizzata)",
-      "category": "Ultimi 7 giorni · Gare",
-      "summary": "Il documento di avvio prevede una procedura europea in lotto unico, con criterio qualità/prezzo. La proposta di avvio risale al 16 novembre.",
-      "relevance": "Opportunità commerciale da approfondire negli atti di gara.",
-      "sources": [
-        {
-          "name": "ISMEA – documento ufficiale",
-          "url": "https://trasparenza.ismea.it/download/2815118.html"
-        }
-      ]
-    },
-    {
-      "title": "Mercato ambientale: 102 procedure aperte secondo aggregatore",
-      "company": "Settore ambientale",
-      "date": "2026-11-26",
-      "category": "Ultime 24–48 ore · Gare",
-      "summary": "La piattaforma Polyfacto indica 102 bandi e avvisi aperti, 19 pubblicati nei sette giorni precedenti e 27 in scadenza entro sette giorni.",
-      "relevance": "Indicatore orientativo, non conteggio ufficiale ANAC.",
-      "sources": [
-        {
-          "name": "Polyfacto",
-          "url": "https://tender.polyfacto.com/gare-appalto/settore/rifiuti"
-        }
-      ]
-    },
-    {
-      "title": "Trentino: continuità occupazionale per 656 addetti",
-      "company": "Markas / Pulinet / Vales / Rekeep",
-      "date": "2026-11-24",
-      "category": "Approfondimento · Già segnalato",
-      "summary": "La prima fase del confronto sindacale ha raggiunto un'intesa sulla continuità occupazionale; la firma dei contratti individuali era prevista dal 26 novembre. Non risulta verificato il completamento delle firme.",
-      "relevance": "Caso di riferimento per i cambi appalto sanitari.",
-      "sources": [
-        {
-          "name": "RAI TGR",
-          "url": "https://www.rainews.it/tgr/trento/articoli/2026/11/cambio-appalto-pulizie-negli-ospedali-trentini-riassunti-tutti-i-656-addetti-998589a2-811a-4ca8-8cfd-b54c999c7401.html"
-        },
-        {
-          "name": "ASUIT",
-          "url": "https://asuit.tn.it/notizie/appalto-pulizie-asuit-nessun-taglio-ai-servizi"
-        }
-      ]
-    },
-    {
-      "title": "Terni: bando per cestini e pronto intervento di igiene urbana",
-      "company": "ASM Terni",
-      "date": "Scadenza 2026-11-30 ore 12",
-      "category": "Approfondimento · Gara già pubblicata",
-      "summary": "Valore stimato 437.750,01 euro secondo le piattaforme di indicizzazione dei bandi. Oggetto: cestini, posaceneri, spazzamento e raccolta nel centro storico.",
-      "relevance": "Verificare gli atti originali prima di partecipare.",
-      "sources": [
-        {
-          "name": "Ossian",
-          "url": "https://ossian.cloud/bandi/avviso/3348d015-a71b-4a41-8be2-7ab1ea715be5.html"
-        },
-        {
-          "name": "HelloTender",
-          "url": "https://www.hellotender.eu/it/gare/servizio-raccolta-rifiuti-743720-2026"
-        }
-      ]
-    },
-    {
-      "title": "Rekeep: partecipazione all'assemblea ANCI di Verona",
+      "title": "Rekeep–YouTrend: manutenzione urbana prioritaria per il 44% degli intervistati",
       "company": "Rekeep",
-      "date": "2026-11-25/27",
-      "category": "Approfondimento · Evento già annunciato",
-      "summary": "Tre incontri dedicati alle città e ai servizi per le amministrazioni locali. L'evento era stato annunciato il 21 ottobre.",
-      "relevance": "Posizionamento commerciale verso gli enti locali; non costituisce aggiudicazione.",
+      "date": "2026-11-27",
+      "category": "Ultime 24 ore · Mercato (pubblicazione del 27 novembre, ora non accertata)",
+      "summary": "Greenreport pubblica i risultati dell'indagine presentata all'assemblea ANCI di Verona: il 44% indica la manutenzione tra le tre priorità comunali, contro il 39% per la sicurezza.",
+      "relevance": "Indicazione di domanda potenziale per manutenzione e facility management pubblico; non equivale a nuovi stanziamenti.",
       "sources": [
         {
-          "name": "Rekeep",
-          "url": "https://www.rekeep.com/media/notizie/prendersi-cura-delle-citta-rekeep-alla-43a-assemblea-anci"
-        }
-      ]
-    },
-    {
-      "title": "Pulizie e sanificazione: 25 bandi sopra soglia secondo aggregatore",
-      "company": "Settore multiservizi",
-      "date": "2026-11-23",
-      "category": "Ultimi 7 giorni · Mercato",
-      "summary": "RediGo indica 25 procedure aperte, valore stimato complessivo 88,9 milioni di euro, sulla base di dati TED.",
-      "relevance": "Dato orientativo riferito al 23 novembre, non elenco aggiornato in tempo reale.",
-      "sources": [
-        {
-          "name": "RediGo",
-          "url": "https://redi-go.it/gare-aperte/pulizie-sanificazione"
-        }
-      ]
-    },
-    {
-      "title": "Costi del lavoro e ribassi negli appalti di servizi",
-      "company": "Settore multiservizi",
-      "date": "2026-11-26",
-      "category": "Ultime 24–48 ore · Analisi di settore",
-      "summary": "Facilitynews affronta la sostenibilità delle basi d'asta e gli adeguamenti legati ai rinnovi contrattuali.",
-      "relevance": "Approfondimento editoriale, non nuovo provvedimento normativo.",
-      "sources": [
-        {
-          "name": "Facilitynews",
-          "url": "https://www.facilitynews.it/2026/11/26/gare-al-ribasso-appalti-servizi/"
-        }
-      ]
-    },
-    {
-      "title": "Emilia-Romagna: procedure per recupero e trattamento rifiuti",
-      "company": "Settore ambientale",
-      "date": "2026-11-26",
-      "category": "Ultimi 7 giorni · Gare",
-      "summary": "Un repertorio aggiornato al 26 novembre segnala procedure per recupero di sfalci e potature e gestione di rifiuti non pericolosi da depurazione per il periodo 2027–2029.",
-      "relevance": "Piste di ricerca da verificare sui bandi originali.",
-      "sources": [
-        {
-          "name": "iaGare",
-          "url": "https://iagare.com/bandi-gara-igiene-urbana-rifiuti-emilia-romagna/"
-        }
-      ]
-    },
-    {
-      "title": "Rekeep: selezioni per le funzioni centrali",
-      "company": "Rekeep",
-      "date": "2026-11-25 (Company Affairs); data originaria non accertata per Ufficio Gare",
-      "category": "Approfondimento — non nuova notizia delle ultime 24 ore",
-      "summary": "La rassegna segnala una ricerca Tender Internship a Bologna per il potenziamento dell'Ufficio Gare, con rimborso indicato di 800–1.200 euro mensili, e una selezione Company Affairs del 25 novembre con rimborso indicato di 800 euro mensili. La data originaria della prima inserzione non è stata accertata.",
-      "relevance": "Possibile attenzione alle funzioni centrali; non è prova di riorganizzazione societaria o di nuove assunzioni manageriali strategiche.",
-      "sources": [
-        {
-          "name": "Indeed – ricerca offerte ufficio gare (pagina aggregata)",
-          "url": "https://it.indeed.com/q-addetto-ufficio-gare-e-appalti-l-bologna%2C-emilia-romagna-offerte-lavoro.html"
+          "name": "Greenreport",
+          "url": "https://www.greenreport.it/news/approfondimenti/65185-ai-sindaci-i-cittadini-chiedono-piu-manutenzione-44-che-sicurezza-39"
         },
         {
-          "name": "Euspert – selezione Company Affairs",
-          "url": "https://it.euspert.com/offerte-lavoro/bologna/company-affairs-internship-44417566.html"
+          "name": "Rekeep – programma ufficiale",
+          "url": "https://www.rekeep.com/assemblea-anci-2026"
         }
       ]
     },
     {
-      "title": "Brindisi: gara pulizie ASL da 71,2 milioni e contestazione sindacale",
-      "company": "ASL Brindisi / Sanitaservice",
+      "title": "Ascit: avviso di sciopero generale del 4 dicembre",
+      "company": "Ascit Servizi Ambientali",
+      "date": "2026-11-27",
+      "category": "Ultime 24 ore · Relazioni industriali",
+      "summary": "Il Comune di Porcari pubblica alle 15:46 l'avviso di possibili disservizi in dodici comuni lucchesi per lo sciopero generale del 4 dicembre. Garantiti i servizi essenziali.",
+      "relevance": "Pianificazione delle prestazioni indispensabili; nessun dato di adesione ancora disponibile.",
+      "sources": [
+        {
+          "name": "Comune di Porcari",
+          "url": "https://comune.porcari.lu.it/novita/sciopero-generale-nazionale-di-venerdi-4-dicembre-2026-possibili-disagi-per-i-servizi-di-raccolta-rifiuti-e-igiene-ambientale-di-ascit/"
+        }
+      ]
+    },
+    {
+      "title": "Fossano: revisione delle frequenze di raccolta dal 2027",
+      "company": "Comune di Fossano",
       "date": "2026-11-26",
-      "category": "Ultime 48 ore · Appalti e relazioni industriali",
-      "summary": "Secondo Il Gazzettino di Brindisi, la delibera ASL 3027 del 20 novembre avvia una gara esterna pluriennale dal valore progettuale di 71,2 milioni di euro. UGL Salute contesta le garanzie occupazionali e chiede il confronto.",
-      "relevance": "Dossier rilevante per l'esternalizzazione delle pulizie sanitarie; le contestazioni sono attribuite al sindacato e il testo della delibera non è stato verificato direttamente.",
+      "category": "Ultimi 7 giorni · Organizzazione igiene urbana",
+      "summary": "Dal 1 gennaio 2027 nuovi orari di esposizione dei rifiuti e riduzione da due a un passaggio settimanale dell'indifferenziato nelle tre zone urbane.",
+      "relevance": "Possibile modifica dei fabbisogni operativi; effetti economici e occupazionali non documentati.",
       "sources": [
         {
-          "name": "Il Gazzettino di Brindisi",
-          "url": "https://www.ilgazzettinobr.it/2026/11/appalto-pulizie-asl-brindisi-gara-da-71-milioni-al-posto-del-business-plan/"
+          "name": "Comune di Fossano",
+          "url": "https://comune.fossano.cn.it/novita/novita-per-la-raccolta-rifiuti-porta-a-porta/"
         }
       ]
     },
     {
-      "title": "Sarnico: gara ambientale riservata alle cooperative sociali",
-      "company": "Servizi Comunali S.p.A.",
-      "date": "2026-11-27",
-      "category": "Oggi · Gare",
-      "summary": "AvvisaGare riporta un affidamento riservato alle cooperative sociali di tipo B per 8.227.248 euro, con scadenza 28 dicembre 2026.",
-      "relevance": "Opportunità per operatori aventi i requisiti della riserva; verificare bando ufficiale.",
+      "title": "Zandobbio: avvio della raccolta puntuale con bidoncini",
+      "company": "Comune di Zandobbio",
+      "date": "2026-11-23",
+      "category": "Ultimi 7 giorni · Innovazione ambientale",
+      "summary": "Il Comune bergamasco annuncia il passaggio dalla raccolta con sacchi alla raccolta puntuale con bidoncini dal 3 dicembre 2026.",
+      "relevance": "Evoluzione del modello di raccolta; importi e affidatario non indicati nell'avviso.",
       "sources": [
         {
-          "name": "AvvisaGare",
-          "url": "https://avvisagare.it/bando/7145bbb7-1cbf-4284-ad79-3d058b610a63/"
-        }
-      ]
-    },
-    {
-      "title": "Roma: bando trattamento e smaltimento rifiuti da 255.000 euro",
-      "company": "Città metropolitana di Roma Capitale",
-      "date": "2026-11-27",
-      "category": "Oggi · Gare",
-      "summary": "Il portale ufficiale riporta una procedura da 255.000 euro, CIG BDFA4F4354, CPV 90513000-6, con scadenza 10 dicembre 2026 ore 10.",
-      "relevance": "Opportunità nel trattamento dei rifiuti non pericolosi; consultare i documenti ufficiali.",
-      "sources": [
-        {
-          "name": "Portale gare Città metropolitana Roma",
-          "url": "https://portalegare.cittametropolitanaroma.it/portalegare/index.php/bandi?RicQ=YES&VisQ=SI&bando=656890&getdettaglio=yes&jk=&scadenzaBando=2026-12-10T10%3A00%3A00&tipoDoc=BANDO_GARA_PORTALE&tipobando=Bando&xslt=XSLT_BANDO_GARA_PORTALE"
-        }
-      ]
-    },
-    {
-      "title": "Vignanello: gara igiene urbana da oltre 10 milioni",
-      "company": "Provincia di Viterbo / Vignanello",
-      "date": "2026-11-27 (rilevazione)",
-      "category": "Approfondimento · Gare aperte",
-      "summary": "AvvisaGare elenca una procedura da 10.317.834 euro per raccolta, trasporto e spazzamento, con scadenza 11 dicembre 2026.",
-      "relevance": "Opportunità commerciale nel Lazio; data originaria e atti da verificare.",
-      "sources": [
-        {
-          "name": "AvvisaGare",
-          "url": "https://avvisagare.it/settore/90-servizi-fognari-di-raccolta-dei-rifiuti-di/lazio/"
-        }
-      ]
-    },
-    {
-      "title": "Roma: pulizie e igiene ambientale degli immobili, due lotti",
-      "company": "Confservizi Lazio",
-      "date": "2026-11-27 (rilevazione)",
-      "category": "Approfondimento · Gare aperte",
-      "summary": "AvvisaGare riporta una procedura in due lotti per 1.854.865 euro, con scadenza 31 dicembre 2026.",
-      "relevance": "Opportunità per operatori multiservizi; consultare gli atti originali.",
-      "sources": [
-        {
-          "name": "AvvisaGare",
-          "url": "https://avvisagare.it/settore/90-servizi-fognari-di-raccolta-dei-rifiuti-di/lazio/"
-        }
-      ]
-    },
-    {
-      "title": "Savignano sul Rubicone: gara pulizie edifici e sottopassi",
-      "company": "Unione Rubicone e Mare",
-      "date": "2026-11-23 (rilevazione)",
-      "category": "Approfondimento · Gare aperte",
-      "summary": "RediGo riporta un appalto da 285.505 euro con scadenza 9 dicembre 2026.",
-      "relevance": "Opportunità per imprese di pulizie; verificare documentazione ufficiale.",
-      "sources": [
-        {
-          "name": "RediGo",
-          "url": "https://redi-go.it/gare-aperte/pulizie-sanificazione"
-        }
-      ]
-    },
-    {
-      "title": "GESENU: iniziative per la riduzione dei rifiuti",
-      "company": "GESENU",
-      "date": "2026-11 (giorno non accertato)",
-      "category": "Approfondimento · Ambiente",
-      "summary": "Il sito aziendale segnala iniziative della Settimana europea per la riduzione dei rifiuti 2026 in Umbria e Sardegna.",
-      "relevance": "Attività di sensibilizzazione ambientale; non è una nuova aggiudicazione.",
-      "sources": [
-        {
-          "name": "GESENU",
-          "url": "https://www.gesenu.it/pagine/news-004"
+          "name": "Comune di Zandobbio",
+          "url": "https://comune.zandobbio.bg.it/notizie/3687598/giovedi-26-novembre-ultimo-giorno-raccolta-sacchi"
         }
       ]
     }
